@@ -1,0 +1,3 @@
+[submodule "deconz"]
+	path = deconz
+	url = https://github.com/fredrike/hassio-addons_deconz
